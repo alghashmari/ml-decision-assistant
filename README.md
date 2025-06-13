@@ -5,6 +5,13 @@ Get science-based ML algorithm recommendations — in seconds.
 
 ---
 
+## 🌐 Live Demo
+
+🖥️ Try it here → [https://mls-assistant.vercel.app](https://mls-assistant.vercel.app)  
+No installation required. Built to work on any device.
+
+---
+
 ## 🤯 The Problem
 
 You’ve got a dataset.  
