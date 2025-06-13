@@ -7,7 +7,7 @@ Get science-based ML algorithm recommendations — in seconds.
 
 ## 🌐 Live Demo
 
-🖥️ Try it here → (https://mls-assistant.vercel.app)  
+🖥️ Try it here → [https://ml-decision-assistant.vercel.app](https://ml-decision-assistant.vercel.app)  
 No installation required. Built to work on any device.
 
 ---
